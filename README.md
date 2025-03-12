@@ -9,6 +9,12 @@ In this system, clients can act as seeds (initially possessing complete files) o
 
 The **distributed** nature of the protocol is evident in how file distribution workload is shared among all participants, while **parallelized** download and upload operations allow each client to handle multiple file transfers simultaneously using separate threads.
 
+## Architecture Diagram
+
+![BitTorrent Network Architecture](bittorrent-architecture.png)
+*Diagram showing the BitTorrent protocol components: Tracker, Seeds, Leeches, and Swarm communication*
+
+
 ## Project Structure
 
 The implementation is based on the following components:
