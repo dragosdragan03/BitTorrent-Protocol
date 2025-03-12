@@ -12,6 +12,7 @@ The **distributed** nature of the protocol is evident in how file distribution w
 ## Architecture Diagram
 
 ![BitTorrent Network Architecture](bittorrent-architecture.png)
+
 *Diagram showing the BitTorrent protocol components: Tracker, Seeds, Leeches, and Swarm communication*
 
 
